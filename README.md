@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello friends!! 👋
 
 <!--
 **defektive/defektive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am not a robot, but I play one on the internet. I enjoy long running processes and esoterik communications.
+
+[![stats](https://github-readme-stats.vercel.app/api?username=defektive&show_icons=true&count_private=true&title_color=971901&text_color=971901&icon_color=971901&no-bg=true&hide_border=true)](https://github.com/defektive)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=defektive)](https://github.com/defektive)
